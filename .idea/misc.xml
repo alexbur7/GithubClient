@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/drawable/background_splash.xml" value="0.17592592592592593" />
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/drawable/download.xml" value="0.20925925925925926" />
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/drawable/search.xml" value="0.20925925925925926" />
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/layout/activity_main.xml" value="0.17889492753623187" />
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/layout/fragment_downloading_repository.xml" value="0.1526268115942029" />
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/layout/fragment_search_repository.xml" value="0.22" />
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/layout/fragment_search_repository_fragment.xml" value="0.33" />
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/layout/item_download_repo.xml" value="0.1526268115942029" />
+        <entry key="..\:/android projects/GithubClient/app/src/main/res/layout/item_github_user.xml" value="0.17255434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

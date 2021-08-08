@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+    <string name="failure_data">Проверьте правильность имени пользователя</string>
+    <string name="connection_error">Проверьте соединение с интернетом</string>
+    <string name="enter_name_user">Введите имя пользователя</string>
+    <string name="go_to_list_downloading">К скачанным репозиториям</string>
+    <string name="file_download">Файл закачен</string>
+    <string name="restart_download">Попробуйте загрзузить снова</string>
+    <string name="need_permission">Для загрузки файла вам необходимо предоставить разрешение</string>
+    <string name="start_downloading_file">Файл начал скачиваться</string>
+</resources>
